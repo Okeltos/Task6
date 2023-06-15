@@ -1,0 +1,1 @@
+Select MAX(Salary) From Employee Where Depatment = 1;

@@ -1,0 +1,1 @@
+SELECT Salary * 1.05 FROM Employee;

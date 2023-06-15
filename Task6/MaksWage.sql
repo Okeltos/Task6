@@ -1,0 +1,1 @@
+Select MAX(Salary) from Employee;

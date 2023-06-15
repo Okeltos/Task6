@@ -1,0 +1,1 @@
+Select MIN(Salary) From Employee where Dematment;
