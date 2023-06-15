@@ -1,0 +1,1 @@
+Select Id, Fio, Depatment, Salary From Employee;
